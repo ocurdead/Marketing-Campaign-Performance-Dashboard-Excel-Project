@@ -1,5 +1,5 @@
 # 📊 Marketing Campaign Performance Dashboard
-# Data Analytics Portfolio Project
+## Data Analytics Portfolio Project
 
 
 # 📌 Project Overview
@@ -52,17 +52,25 @@ Net Result: Overall Loss Identified
 6. Month and Ad Group Filters (Slicers)
 
 ## Built using:
-Pivot Tables
-Pivot Charts
-KPI Calculations
-Slicers
-Custom Dashboard Layout
+1. Pivot Tables
+2. Pivot Charts
+3. KPI Calculations
+4. Slicers
+5. Custom Dashboard Layout
 
 # 🔍 Key Insights
 
-🔹 The campaign generated strong revenue with a high ROAS (18.96x).
-🔹 Despite strong sales performance, high advertising costs — particularly from mobile ad groups — resulted in an overall loss.
-🔹 Certain ad groups consistently showed negative P&L and require budget optimization or restructuring.
+This project involved structured exploratory data analysis (EDA) and metric engineering on marketing campaign data to assess performance efficiency and profitability dynamics. Derived metrics including ROAS, cost per conversion, and contribution margin were computed to evaluate cost-adjusted performance at both campaign and ad group levels.
+Despite strong revenue output and a ROAS of 18.96x, margin decomposition analysis revealed negative contribution from specific mobile-focused segments due to elevated acquisition costs. The analysis highlights the importance of cost-normalized evaluation over surface-level engagement metrics.
+
+The framework developed in this project can be extended toward:
+
+1. Predictive modeling of campaign profitability
+2. Budget optimization modeling
+3. Conversion probability estimation
+4. Cost-performance anomaly detection
+
+This project demonstrates applied analytical reasoning, metric engineering, and structured performance diagnostics.
 
 # 🛠 Tools Used
 
