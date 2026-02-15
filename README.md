@@ -74,11 +74,12 @@ This project demonstrates applied analytical reasoning, metric engineering, and 
 
 # 🛠 Tools Used
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-KPI Modeling
-Cost-Profit Analysis
-Data Cleaning
+1. Microsoft Excel
+2. Pivot Tables
+3. Pivot Charts
+4. Slicers
+5. KPI Modeling
+6. Cost-Profit Analysis
+7. Data Cleaning
 
 # 🔹 Dashboard screenshot<img width="1289" height="514" alt="excel_proj" src="https://github.com/user-attachments/assets/dfe0e60b-ee07-43d5-b687-481975404e53" />
