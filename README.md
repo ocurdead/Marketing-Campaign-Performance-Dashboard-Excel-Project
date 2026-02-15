@@ -18,18 +18,18 @@ The objective was to move beyond surface-level metrics and assess overall profit
 # 📂 Dataset Description
 The dataset contains campaign-level and ad group-level performance data including:
 
-Month
-Ad Group
-Impressions
-Clicks
-CTR (Click-Through Rate)
-Conversions
-Conversion Rate
-Cost
-CPC (Cost per Click)
-Revenue
-Sale Amount
-Profit & Loss (P&L)
+1. Month
+2. Ad Group
+3. Impressions
+4. Clicks
+5. CTR (Click-Through Rate)
+6. Conversions
+7. Conversion Rate
+8. Cost
+9. CPC (Cost per Click)
+10. Revenue
+11. Sale Amount
+12. Profit & Loss (P&L)
 
 # 📊 Key KPIs Evaluated
 
