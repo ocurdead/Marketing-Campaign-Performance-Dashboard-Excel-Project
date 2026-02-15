@@ -33,12 +33,12 @@ The dataset contains campaign-level and ad group-level performance data includin
 
 # 📊 Key KPIs Evaluated
 
-Total Sales: $12M+
-Total Cost: $635K+
-Conversion Rate: 10.38%
-Cost per Conversion: 6.62
-ROAS: 18.96x
-Net Result: Overall Loss Identified
+1. Total Sales: $12M+
+2. Total Cost: $635K+
+3. Conversion Rate: 10.38%
+4. Cost per Conversion: 6.62
+5. ROAS: 18.96x
+6. Net Result: Overall Loss Identified
 
 # 📈 Dashboard Features
 
