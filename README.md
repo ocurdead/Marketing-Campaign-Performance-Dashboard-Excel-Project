@@ -4,9 +4,9 @@
 
 # 📌 Project Overview
 
-This project analyzes a paid marketing campaign dataset to evaluate performance, cost efficiency, and return on ad spend (ROAS).
-An interactive Excel dashboard was developed to monitor key business metrics, identify loss-driving segments, and highlight optimization opportunities.
-The objective was to move beyond surface-level metrics and assess overall profitability at campaign and ad group levels.
+This project analyzes multi-month marketing campaign data to evaluate performance, cost efficiency, and overall profitability. An interactive Excel dashboard was developed to monitor key metrics including revenue, cost, conversion rate, cost per conversion, and return on ad spend (ROAS).
+The primary objective was to move beyond surface-level engagement metrics and assess whether the campaign generated sustainable financial returns. Through structured aggregation and segment-level analysis, the project identified cost inefficiencies across specific ad groups that contributed to an overall net loss despite strong revenue performance.
+The dashboard enables dynamic filtering by month and ad group, allowing performance comparison and profitability assessment across segments. This project demonstrates applied data analysis, KPI modeling, and business-oriented performance evaluation using Excel.
 
 # 🎯 Business Objective
 
